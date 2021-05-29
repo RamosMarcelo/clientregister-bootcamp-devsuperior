@@ -4,3 +4,7 @@ INSERT INTO tb_client (name, cpf, income, birth_Date, children) VALUES ('Elon Mu
 INSERT INTO tb_client (name, cpf, income, birth_Date, children) VALUES ('Bill Gates', '44444444444', 126000.0, TIMESTAMP WITH TIME ZONE '1955-10-28T00:00:00.0Z', 3);
 INSERT INTO tb_client (name, cpf, income, birth_Date, children) VALUES ('Mark Zuckerberg', '55555555555', 119000.0, TIMESTAMP WITH TIME ZONE '1984-05-14T00:00:00.0Z', 2);
 INSERT INTO tb_client (name, cpf, income, birth_Date, children) VALUES ('Warren Buffet', '66666666666', 109000.0, TIMESTAMP WITH TIME ZONE '1930-08-30T00:00:00.0Z', 3);
+INSERT INTO tb_client (name, cpf, income, birth_Date, children) VALUES ('Larry Ellison', '77777777777', 103000.0, TIMESTAMP WITH TIME ZONE '1944-08-17T00:00:00.0Z', 2);
+INSERT INTO tb_client (name, cpf, income, birth_Date, children) VALUES ('Larry Page', '88888888888', 102700.0, TIMESTAMP WITH TIME ZONE '1973-03-26T00:00:00.0Z', 2);
+INSERT INTO tb_client (name, cpf, income, birth_Date, children) VALUES ('Sergey Brin', '99999999999', 99600.0, TIMESTAMP WITH TIME ZONE '1973-08-21T00:00:00.0Z', 2);
+INSERT INTO tb_client (name, cpf, income, birth_Date, children) VALUES ('Mukesh Ambani', '10101010101', 81200.0, TIMESTAMP WITH TIME ZONE '1957-04-19T00:00:00.0Z', 3);
